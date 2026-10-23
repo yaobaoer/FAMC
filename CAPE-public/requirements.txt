@@ -1,8 +1,0 @@
-numpy
-pandas
-torch
-torch-geometric
-scikit-learn
-tqdm
-matplotlib
-seaborn
