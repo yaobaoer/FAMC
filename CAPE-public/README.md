@@ -1,4 +1,4 @@
-# CAPE
+# FAMC
 
 Code accompanying “CAPE: Feature Alignment Middleware for Cross-Device Attack Detection in Heterogeneous Networks”.
 
