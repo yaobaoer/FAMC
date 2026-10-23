@@ -1,6 +1,6 @@
 # FAMC
 
-Code accompanying “CAPE: Feature Alignment Middleware for Cross-Device Attack Detection in Heterogeneous Networks”.
+Code accompanying “FAMC: Feature Alignment Middleware for Cross-Device Attack Detection in Web Systems”.
 
 ## Installation
 
